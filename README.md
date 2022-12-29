@@ -9,7 +9,7 @@ I'm Douglas Mendes</h1>
 * 💪🏻 Strong knowloge on iOS mobile development and Software development in General.
 * ❤️ Passionated by automation CI/CD
 * 👪 Father and husband of the most beautiful women in the world.
-* 📧 How to reach me mendes-barreto@live.com
+* 📧 [How to reach me](https://linktr.ee/mendesbarreto?utm_source=linktree_profile_share&ltsid=dd994d10-8de0-4587-bcc5-e459f4f92fa9)
 
 #### Learning
 
