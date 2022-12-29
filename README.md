@@ -21,12 +21,12 @@ I'm Douglas Mendes</h1>
 ### Main Stack
 <br />
 <div align="center">  
-<a href="https://go.dev/" target="_black"><img style="marging 10px" src="https://go.dev/images/go-logo-white.svg" alt="GoLang" height="74"/></a> &nbsp;
-<a href="https://www.swift.org" target="_black"><img style="marging 10px" src="https://www.swift.org/assets/images/swift~dark.svg" alt="Swift" height="74" /></a> &nbsp;
-<a href="https://nodejs.org/en/" target="_blank"><img style="marging 10px" src="https://nodejs.org/static/images/logo.svg" alt="NodeJS" height="74" /></a> &nbsp;
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="75" /></a> &nbsp; 
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="75" /></a> &nbsp; 
-<a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" width="65" /></a>
+<a href="https://go.dev/" target="_black"><img style="marging 10px" src="https://go.dev/images/go-logo-white.svg" alt="GoLang" height="40"/></a> &nbsp;
+<a href="https://www.swift.org" target="_black"><img style="marging 10px" src="https://www.swift.org/assets/images/swift~dark.svg" alt="Swift" height="40" /></a> &nbsp;
+<a href="https://nodejs.org/en/" target="_blank"><img style="marging 10px" src="https://nodejs.org/static/images/logo.svg" alt="NodeJS" height="40" /></a> &nbsp;
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="40" /></a> &nbsp; 
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="40" /></a> &nbsp; 
+<a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="40"/></a>
 <br />
 </div>
 <br/>
