@@ -18,6 +18,11 @@ I'm Douglas Mendes</h1>
 * 🚧 I'm also learning [NeoVim](https://github.com/neovim/neovim)
 * 🔥 How to manage a remote development team!
 
+<div align="center">  
+    <a href="https://app.daily.dev/mendesbarreto"><img src="https://api.daily.dev/devcards/0781d047acec4969a686ba2883a1c65a.png?r=er7" width="250" alt="Douglas Mendes's Dev Card"/></a>
+</div>
+
+
 ### Main Stack
 <br />
 <div align="center">  
@@ -31,7 +36,6 @@ I'm Douglas Mendes</h1>
 </div>
 <br/>
 
-<br />
 <div align="center">  
     <p>
         <img src="https://img.shields.io/badge/-WebStorm-23A9F2?style=flat-square&logo=webstorm"/>
