@@ -13,18 +13,24 @@ Seasoned Software Engineering Manager with 14 years of comprehensive full-stack 
 Xpertsea - Predictive shrimp biomass control with AI
 51 - 100 employees
 Quebec, Canada
-2019-10 – Present
+2020-10 – Present
 
 * Led a 9-engineer team in the development and scaling of complex applications.
 * Spearheaded a full-stack migration from AWS to Google Cloud, achieving an **20%** reduction in infrastructure costs.
-* Directed the re-architecture of all CI/CD pipelines (frontend, backend, testing), cutting total build and deploy time from 50 minutes to **10 minutes**.
+* Led and directly contributed to the re-architecture of all CI/CD pipelines (frontend, backend, testing), cutting total build and deploy time from 50 minutes to **10 minutes**.
 * Increased team productivity by **550%** by optimizing development processes, cutting the average feature lead time from 13 weeks to 2 weeks.
-* Oversaw the successful launch of 6 major projects.
-* Introduced new engineering standards that improved code quality, reduced bug rates by **20%**, and streamlined team async communication.
+* Boosted team efficiency by implementing Kanban, leading to a **20%** reduction in planning time and a more simplified, continuous development flow.
+* Designed and implemented a collaborative workflow to bridge the gap between engineering and product, which minimized communication friction and cut down on unnecessary meetings.
+* Oversaw the successful launch of 6 major projects. 
+* Introduced new engineering standards that improved code quality, reduced bug rates by **20%**, and streamlined team async communication. 
 * Managed all people functions, including performance reviews, mentorship, and conflict resolution.
+* Architected and built a cross-platform Computer Vision framework in C++ to unify high-performance image and video processing for native iOS and Android.
+* Actively participated in development cycles, contributing code to backend services (Python, JS/TypeScript) and frontend Next.js applications to accelerate key initiatives.
 
-**Senior iOS Developer** | Social.mom
-[Date] – [Date]
+**Senior iOS Developer** 
+Social.mom - Social Media for mothers
+11 - 20 employees
+2019-10 – 2020-10
 
 * Engineered and maintained a high-traffic iOS application, driving the migration of key features from Objective-C to Swift.
 * Led a major re-architecture of the native codebase, cutting maintenance overhead and new feature development time by **20%**.
@@ -32,8 +38,9 @@ Quebec, Canada
 * Established a formal testing culture by introducing end-to-end (E2E) and unit testing, significantly improving application reliability.
 * Mentored engineers on software design, championing the adoption of SOLID principles and modern design patterns.
 
-**Senior Software Engineer (Consultant)** | Levio
-[Date] – [Date]
+**Senior Software Engineer (Consultant)** 
+Levio - Tech Consulting
+2018-10 - 2019-10
 
 * Engineered and maintained scalable, high-availability backend services for multiple clients using .NET C#.
 * Executed complex legacy modernization projects, successfully migrating critical client systems from COBOL to modern .NET platforms.
@@ -45,7 +52,7 @@ Jul 2015 – Aug 2018 (3 yrs 2 mos)
 
 * Progressed from Developer to Senior Engineer, leading the architecture and development of native mobile applications for multiple clients.
 * Architected and developed a "white-label" e-commerce mobile platform, enabling the rapid deployment of customized storefronts from a single codebase.
-* Acted as a subject matter expert, delivering multiple technical talks to engineering teams on best practices in coding, testing, and QA implementation.
+* Delivered multiple technical talks to engineering teams on best practices in coding, testing, and QA implementation.
 * Designed and implemented robust CI/CD pipelines (Jenkins, Bitrise, TravisCI) and championed TDD/BDD practices (XCTest, Kif).
 
 **Lead Game Programmer** | Editora Globo
