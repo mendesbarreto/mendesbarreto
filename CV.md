@@ -10,9 +10,13 @@ Seasoned Software Engineering Manager with 14 years of comprehensive full-stack 
 ## Professional Experience
 
 **Senior Software Engineering Manager** 
+
 Xpertsea - Predictive shrimp biomass control with AI
+
 51 - 100 employees
+
 Quebec, Canada
+
 2020-10 – Present
 
 * Led a 9-engineer team in the development and scaling of complex applications.
