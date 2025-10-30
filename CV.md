@@ -3,10 +3,37 @@
 
 ## Professional Summary
 
-Seasoned Software Engineering Manager with 14 years of comprehensive full-stack experience, from web and mobile applications to low-level systems. Proven success in leading development teams and crafting powerful, scalable backend systems. A strong advocate for lean processes and automation to drive quality and performance. Excels at partnering with product teams to guide the full project lifecycle, from initial concept to successful launch.
+With 14 years in software engineering, I’ve worked across the full stack, leading and mentoring teams that ship quality products. My focus is on delivering what clients actually need by collaborating closely with product and design and ruthlessly trimming down processes. This means practical agile, a strong focus on automation, and a culture of high quality.
+
+I stay hands-on by architecting systems, managing migrations, and consulting. This keeps my skills sharp and helps me understand my team's challenges. 
+
+My goal is simple: build high-performing teams and scalable solutions that actually work.
 
 ---
 
+## Management Skills
+
+* Expert in Scrum and Kanban methodologies, fostering collaborative and high-performing teams.
+* Proven track record of mentoring engineers, leading technical teams, and developing talent from junior to senior levels.
+* Experienced in collaborating with product managers, designers, and cross-functional teams to deliver robust solutions.
+* Led client engagements and delivered solutions across multiple organizations as a technical consultant.
+* Successfully managed complex migration projects, full game development lifecycles, and multi-client deliverables.
+* Established development processes using JIRA/Github Projects, implemented CI/CD pipelines, and championed TDD/BDD practices across teams.
+* Skilled in managing client relationships, defining requirements, and aligning technical solutions with business objectives.
+* Delivered technical talks and presentations to engineering teams on best practices in coding, testing, and QA implementation.
+
+
+## Tech Skills
+
+* Technology Polyglot Knowledgeable in a wide range of programming languages and frameworks, including Python, JavaScript/TypeScript, Go, C++, C#, Ruby, Swift, Objective-C, and ++.
+* GraphQL, Restful APIs, Microservices Architecture, Event-Driven Systems.
+* Node JS, Next.js, React Native, Native iOS/Android Development.
+* Docker, Kubernetes, CI/CD Pipelines (Jenkins, GitHub Actions).
+* MySQL, PostgreSQL, MongoDB, Redis.
+* Automation, Testing (Unit, Integration, E2E), TDD/BDD.
+* Design Patterns, SOLID Principles, Agile Methodologies (Scrum, Kanban).
+
+---
 ## Professional Experience
 
 **Senior Software Engineering Manager** 
@@ -22,6 +49,7 @@ Quebec, Canada
 * Led a 9-engineer team in the development and scaling of complex applications.
 * Spearheaded a full-stack migration from AWS to Google Cloud, achieving an **20%** reduction in infrastructure costs.
 * Led and directly contributed to a full platform re-architecture, improving developer experience (DX) and user engagement (UX) to successfully drive the company to product-market fit.
+* Introduced trunk-based development to the team, reducing gitflow overhead and significantly improving feature lead time.
 * Pioneered a new 1:1 methodology that leveraged AI-powered summaries to create a searchable, data-driven history of discussions, goals, and team progress.
 * Led and directly contributed to the re-architecture of all CI/CD pipelines (frontend, backend, testing), cutting total build and deploy time from 50 minutes to **7 minutes**.
 * Increased team productivity by **550%** by optimizing development processes, cutting the average feature lead time from 13 weeks to 2 weeks.
@@ -41,7 +69,7 @@ Social.mom - Social Media for mothers focused on delivering a safe and supportiv
 
 11 - 20 employees
 
-2019-10 – 2020-10
+Oct 2019 – Oct 2020 
 
 * Engineered and maintained a high-traffic iOS application, driving the migration of key features from Objective-C to Swift.
 * Led a major re-architecture of the native codebase, cutting maintenance overhead and new feature development time by **20%**.
@@ -54,7 +82,7 @@ Social.mom - Social Media for mothers focused on delivering a safe and supportiv
 
 Levio - Tech Consulting
 
-2018-10 - 2019-7
+Jul 2018 - 2019 Oct
 
 * Engineered and maintained scalable, high-availability backend services for multiple clients using .NET C#.
 * Executed complex legacy modernization projects, successfully migrating critical client systems from COBOL to modern .NET platforms.
