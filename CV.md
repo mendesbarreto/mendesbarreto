@@ -8,8 +8,6 @@
   </p>
 </div>
 
---
-
 ## Professional Summary
 
 With 14 years in software engineering, I’ve worked across the full stack, leading and mentoring teams that ship quality products. My focus is on delivering what clients actually need by collaborating closely with product and design and ruthlessly trimming down processes. This means practical agile, a strong focus on automation, and a culture of high quality.
