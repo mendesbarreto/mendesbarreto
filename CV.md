@@ -82,6 +82,8 @@ Oct 2019 – Oct 2020
 
 Levio - Tech Consulting
 
+1K - 5K employees
+
 Jul 2018 - 2019 Oct
 
 * Engineered and maintained scalable, high-availability backend services for multiple clients using .NET C#.
@@ -94,6 +96,8 @@ Jul 2018 - 2019 Oct
 **Senior Mobile Engineer**
 
 Concrete Solutions - Tech Consulting
+
+10K+ - employees
 
 Jul 2015 – Aug 2018
 
@@ -108,6 +112,8 @@ Jul 2015 – Aug 2018
 
 Editora Globo - Publisher and developer of digital entertainment products
 
+500 - 1k employees
+
 Aug 2010 – Apr 2015
 
 * Progressed from Game Programmer to Lead, managing the full game development lifecycle, product concepting, and team leadership.
@@ -119,7 +125,9 @@ Aug 2010 – Apr 2015
 ---
 **Junior Analyst Programmer** 
 
-People Way
+People Way - Tech Consulting
+
+11 - 50 employees
 
 Apr 2009 – Feb 2010
 
