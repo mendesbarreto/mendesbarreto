@@ -78,7 +78,7 @@ Oct 2019 – Oct 2020
 * Mentored engineers on software design, promoting the adoption of SOLID principles and modern design patterns.
 
 --- 
-**Senior Software Engineer (Consultant)**
+**Senior Software Engineer**
 
 Levio - Tech Consulting
 
