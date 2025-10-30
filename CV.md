@@ -1,8 +1,7 @@
 
-## CV
 <div align="center">
   <img src="imgs/profile.jpg" alt="Douglas Mendes" width="200"/>
-  <h1>DOUGLAS MENDES BARRETO</h1>
+  <h2>DOUGLAS MENDES BARRETO</h2>
   <h3>Senior Software Engineer Manger</h3>
   <p>
     +1 (581) 748 0657 • mendes-barreto@live.com • <a href="https://www.linkedin.com/in/mendesbarreto">in/mendesbarreto</a> • Gatineau, QC - Canada
@@ -13,7 +12,7 @@
 
 With 14 years in software engineering, I’ve worked across the full stack, leading and mentoring teams that ship quality products. My focus is on delivering what clients actually need by collaborating closely with product and design and ruthlessly trimming down processes. This means practical agile, a strong focus on automation, and a culture of high quality.
 
-I stay hands-on by architecting systems, managing migrations, and consulting. This keeps my skills sharp and helps me understand my team's challenges. 
+I stay hands-on by architecting systems, managing migrations, and consulting. This keeps my skills sharp and helps me understand my team's challenges.
 
 My goal is simple: build high-performing teams and scalable solutions that actually work.
 
@@ -30,7 +29,6 @@ My goal is simple: build high-performing teams and scalable solutions that actua
 * Skilled in managing client relationships, defining requirements, and aligning technical solutions with business objectives.
 * Delivered technical talks and presentations to engineering teams on best practices in coding, testing, and QA implementation.
 
-
 ## Tech Skills
 
 * Technology Polyglot Knowledgeable in a wide range of programming languages and frameworks, including Python, JavaScript/TypeScript, Go, C++, C#, Ruby, Swift, Objective-C, and ++.
@@ -42,9 +40,10 @@ My goal is simple: build high-performing teams and scalable solutions that actua
 * Design Patterns, SOLID Principles, Agile Methodologies (Scrum, Kanban).
 
 ---
+
 ## Professional Experience
 
-**Senior Software Engineering Manager** 
+**Senior Software Engineering Manager**
 
 Xpertsea - Predictive shrimp biomass control with AI delivering sustainable aquaculture solutions
 
@@ -63,21 +62,21 @@ Quebec, Canada
 * Increased team productivity by **550%** by optimizing development processes, cutting the average feature lead time from 13 weeks to 2 weeks.
 * Boosted team efficiency by implementing Kanban, leading to a **20%** reduction in planning time and a more simplified, continuous development flow.
 * Designed and implemented a collaborative workflow to bridge the gap between engineering and product, which minimized communication friction and cut down on unnecessary meetings.
-* Oversaw the successful launch of 6 major projects. 
-* Introduced new engineering standards that improved code quality, reduced bug rates by **23%**, and streamlined team async communication. 
+* Oversaw the successful launch of 6 major projects.
+* Introduced new engineering standards that improved code quality, reduced bug rates by **23%**, and streamlined team async communication.
 * Managed all people functions, including performance reviews, mentorship, and conflict resolution.
 * Actively participated in development cycles, contributing code to backend services (Python, JS/TypeScript) and frontend Next.js applications to accelerate key initiatives.
 * Architected and built a cross-platform Computer Vision framework in C++ to unify high-performance image and video processing for native iOS and Android.
 
---- 
+---
 
-**Senior iOS Developer** 
+**Senior iOS Developer**
 
 Social.mom - Social Media for mothers focused on delivering a safe and supportive environment
 
 11 - 20 employees
 
-Oct 2019 – Oct 2020 
+Oct 2019 – Oct 2020
 
 * Engineered and maintained a high-traffic iOS application, driving the migration of key features from Objective-C to Swift.
 * Led a major re-architecture of the native codebase, cutting maintenance overhead and new feature development time by **20%**.
@@ -85,7 +84,7 @@ Oct 2019 – Oct 2020
 * Established a formal testing culture by introducing end-to-end (E2E) and unit testing, significantly improving application reliability.
 * Mentored engineers on software design, promoting the adoption of SOLID principles and modern design patterns.
 
---- 
+---
 **Senior Software Engineer**
 
 Levio - Tech Consulting
@@ -131,7 +130,7 @@ Aug 2010 – Apr 2015
 * Implemented JIRA to establish and manage the team's development process.
 
 ---
-**Junior Analyst Programmer** 
+**Junior Analyst Programmer**
 
 People Way - Tech Consulting
 
