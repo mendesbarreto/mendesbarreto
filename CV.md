@@ -1,13 +1,10 @@
 
 ## CV
 <div align="center">
+    <img src="imgs/profile.jpg" alt="Douglas Mendes" width="200"/>
+</div>
+<div align="center">
   
-  <img 
-    src="[YOUR_IMAGE_URL_HERE]" 
-    alt="Profile Picture" 
-    width="150" 
-    style="border-radius:50%;"
-  >
   
   <h1>DOUGLAS MENDES BARRETO</h1>
   <h3>Senior Software Engineer Manger</h3>
