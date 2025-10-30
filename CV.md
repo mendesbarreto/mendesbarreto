@@ -1,5 +1,20 @@
 
 ## CV
+<div align="center">
+  
+  <img 
+    src="[YOUR_IMAGE_URL_HERE]" 
+    alt="Profile Picture" 
+    width="150" 
+    style="border-radius:50%;"
+  >
+  
+  <h1>DOUGLAS MENDES BARRETO</h1>
+  <h3>Senior Software Engineer Manger</h3>
+  <p>
+    +1 (581) 748 0657 • mendes-barreto@live.com • <a href="https://www.linkedin.com/in/mendesbarreto">in/mendesbarreto</a> • Gatineau, QC - Canada
+  </p>
+</div>
 
 ## Professional Summary
 
