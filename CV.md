@@ -1,10 +1,8 @@
 
 <div align="center">
   <img src="imgs/profile.jpg" alt="Douglas Mendes" width="200"/>
-  <div>
- │  <h1><b>DOUGLAS MENDES BARRETO</b></h1>
-    <h2><b>Senior Software Engineer Manger</b></h2>
-  </div>
+ │<h1>DOUGLAS MENDES BARRETO</h1>
+  <h2>Senior Software Engineer Manger</h2>
   <p>
     +1 (581) 748 0657 • mendes-barreto@live.com • <a href="https://www.linkedin.com/in/mendesbarreto">in/mendesbarreto</a> • Gatineau, QC - Canada
   </p>
