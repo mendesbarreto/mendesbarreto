@@ -1,5 +1,5 @@
 
-<div align="center">
+<div>
   <img src="imgs/profile.jpg" alt="Douglas Mendes" width="200"/>
  │<h1>DOUGLAS MENDES BARRETO</h1>
   <h3>Senior Software Engineer Manger</h3>
