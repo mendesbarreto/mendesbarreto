@@ -18,7 +18,7 @@ My goal is simple: build high-performing teams and scalable solutions that actua
 * Experienced in collaborating with product managers, designers, and cross-functional teams to deliver robust solutions.
 * Led client engagements and delivered solutions across multiple organizations as a technical consultant.
 * Successfully managed complex migration projects, full game development lifecycles, and multi-client deliverables.
-* Established development processes using JIRA/Github Projects, implemented CI/CD pipelines, and championed TDD/BDD practices across teams.
+* Established development processes using JIRA/Github Projects, implemented CI/CD pipelines, and promoted TDD/BDD practices across teams.
 * Skilled in managing client relationships, defining requirements, and aligning technical solutions with business objectives.
 * Delivered technical talks and presentations to engineering teams on best practices in coding, testing, and QA implementation.
 
@@ -75,10 +75,10 @@ Oct 2019 – Oct 2020
 * Led a major re-architecture of the native codebase, cutting maintenance overhead and new feature development time by **20%**.
 * Authored automation scripts that eliminated hundreds of hours of manual, repetitive tasks for the development team.
 * Established a formal testing culture by introducing end-to-end (E2E) and unit testing, significantly improving application reliability.
-* Mentored engineers on software design, championing the adoption of SOLID principles and modern design patterns.
+* Mentored engineers on software design, promoting the adoption of SOLID principles and modern design patterns.
 
 --- 
-**Senior Software Engineer (Consultant)** 
+**Senior Software Engineer (Consultant)**
 
 Levio - Tech Consulting
 
@@ -91,19 +91,24 @@ Jul 2018 - 2019 Oct
 * Contributed to the optimization and automation of continuous integration (CI) pipelines to improve build and deployment efficiency.
 
 ---
-**Senior Mobile Engineer** | Concrete Solutions
+**Senior Mobile Engineer**
 
-Jul 2015 – Aug 2018 (3 yrs 2 mos)
+Concrete Solutions - Tech Consulting
+
+Jul 2015 – Aug 2018
 
 * Progressed from Developer to Senior Engineer, leading the architecture and development of native mobile applications for multiple clients.
 * Developed 3 mobile banking applications and 4 e-commerce apps, delivering high-quality financial and retail solutions.
 * Architected and developed a "white-label" e-commerce mobile platform, enabling the rapid deployment of customized storefronts from a single codebase.
 * Delivered multiple technical talks to engineering teams on best practices in coding, testing, and QA implementation.
-* Designed and implemented robust CI/CD pipelines (Jenkins, Bitrise, TravisCI) and championed TDD/BDD practices (XCTest, Kif).
+* Designed and implemented robust CI/CD pipelines (Jenkins, Bitrise, TravisCI) and promoted TDD/BDD practices (XCTest, Kif).
 
 ---
-**Lead Game Programmer** | Editora Globo
-Aug 2010 – Apr 2015 (4 yrs 9 mos)
+**Lead Game Programmer**
+
+Editora Globo - Publisher and developer of digital entertainment products
+
+Aug 2010 – Apr 2015
 
 * Progressed from Game Programmer to Lead, managing the full game development lifecycle, product concepting, and team leadership.
 * Led the end-to-end development of cross-platform games (iOS, Android, Windows) using C# and Unity3D.
@@ -112,8 +117,11 @@ Aug 2010 – Apr 2015 (4 yrs 9 mos)
 * Implemented JIRA to establish and manage the team's development process.
 
 ---
-**Junior Analyst Programmer** | People Way
-Apr 2009 – Feb 2010 (11 mos)
+**Junior Analyst Programmer** 
+
+People Way
+
+Apr 2009 – Feb 2010
 
 * Developed and maintained enterprise web applications using the J2EE stack (JSP, JSF) and SOAP web services.
 * Managed the client data lifecycle, including database design (MySQL) and building custom reports with JasperReport.
