@@ -12,6 +12,7 @@ My goal is simple: build high-performing teams and scalable solutions that actua
 * 👷🏻 Current working at [Xpertsea](https://xpertsea.com) as a Senior Software Engineering Manager.
 * 👪 Father and husband of the most beautiful women in the world.
 * 📧 [How to reach me](https://linktr.ee/mendesbarreto?utm_source=linktree_profile_share&ltsid=dd994d10-8de0-4587-bcc5-e459f4f92fa9)
+* 📄 View my [CV in Markdown](CV.md) or [CV in PDF](CV.pdf).
 
 ---
 
