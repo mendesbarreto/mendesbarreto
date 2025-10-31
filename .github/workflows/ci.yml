@@ -46,11 +46,12 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v6
 
-      - name: Install dependencies
-        run: npm i -g md-to-pdf
-
       - name: Setup Chrome
         uses: browser-actions/setup-chrome@v2
+      - run: chrome --version
+
+      - name: Install dependencies
+        run: npm i -g md-to-pdf
 
       - name: Convert
         run: |
