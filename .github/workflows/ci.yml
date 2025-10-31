@@ -50,6 +50,7 @@ jobs:
         run: npm i -g md-to-pdf
 
       - name: Convert
+        uses: browser-actions/setup-chrome@v2
         run: |
           md-to-pdf CV.md
 
@@ -60,7 +61,6 @@ jobs:
           (git commit -am $'chore: updates ${{ github.ref }} \n${{ env.GH_SHA_SHORT }}' && git tag $GIT_BRANCH-$COMMIT_DATE-$COMMIT_TIME-$GH_SHA_SHORT ) || true
 
       - name: Push changes to branch final
-        uses: browser-actions/setup-chrome@v2
         run: |
           cd $SDK_REPO_PATH
           if [ ! -d "dist" ]; then
