@@ -4,7 +4,6 @@ on:
   workflow_call:
   push:
     branches:
-      - "!*"
       - "cv"
       - "master"
 
@@ -19,6 +18,7 @@ env:
 
 jobs:
   md_to_pdf:
+    if: "!contains(github.event.head_commit.message, '[skip ci]')"
     runs-on: ubuntu-latest
     timeout-minutes: 5
 
@@ -39,7 +39,8 @@ jobs:
           echo "COMMIT_TIME=$(git log -n 1 --pretty='format:%cd' --date=format:'%H-%M-%S')" >> $GITHUB_ENV
           echo "CURRENT_DATETIME=$(date +'%Y-%m-%d %H:%M:%S')" >> $GITHUB_ENV
           echo "GH_SHA_SHORT=$(echo $GITHUB_SHA | cut -c 1-7)" >> $GITHUB_ENV
-          git config --global user.name "xpertsea-bot"
+          git config --global user.name "mendesbarreto"
+          git config --global user.email "mendes-barreto@live.com"
           git config --global url."https://${{ env.GH_PAT }}:x-oauth-basic@github.com/".insteadOf "https://github.com/"
           git config --global url."https://${{ env.GH_PAT }}:x-oauth-basic@github.com/".insteadOf "ssh://git@github.com/"
 
@@ -57,15 +58,13 @@ jobs:
         run: |
           md-to-pdf CV.md --launch-options='{ "args": ["--no-sandbox"] }'
 
-      - name: Push changes to branch
+      - name: Push updated CV.pdf
         run: |
-          git status
-          git add -A
-          (git commit -am $'chore: updates ${{ github.ref }} \n${{ env.GH_SHA_SHORT }}' && git tag $GIT_BRANCH-$COMMIT_DATE-$COMMIT_TIME-$GH_SHA_SHORT ) || true
-
-      - name: Push changes to branch final
-        run: |
-          git status
           git pull --ff
-          git push -u --set-upstream origin ${{ env.GIT_BRANCH }} --tags
-          git status
+          git add CV.pdf
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: Update CV.pdf [skip ci]"
+            git push origin ${{ env.GIT_BRANCH }}
+          fi
