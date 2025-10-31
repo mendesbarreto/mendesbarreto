@@ -55,7 +55,7 @@ jobs:
 
       - name: Convert
         run: |
-          md-to-pdf CV.md
+          md-to-pdf CV.md --no-sandbox
 
       - name: Push changes to branch
         run: |
