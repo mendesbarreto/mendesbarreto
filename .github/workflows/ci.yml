@@ -1,0 +1,52 @@
+name: Generate CV in PDF
+on:
+  workflow_dispatch:
+  workflow_call:
+  push:
+    branches:
+      - "cv"
+      - "master"
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+env:
+  GH_PAT: ${{ secrets.GH_PAT }}
+  GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  CI: true
+
+jobs:
+  md_to_pdf:
+    if: "!contains(github.event.head_commit.message, '[skip ci]')"
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
+
+      - uses: actions/checkout@08c6903cd8c0fde910a37f88322edcfb5dd907a8 # v5
+        with:
+          fetch-depth: 10
+          persist-credentials: false
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v6
+
+      - name: Setup Chrome
+        uses: browser-actions/setup-chrome@v2
+      - run: chrome --version
+
+      - name: Install dependencies
+        run: npm i -g md-to-pdf
+
+      - name: Convert
+        run: |
+          md-to-pdf CV.md --launch-options='{ "args": ["--no-sandbox"] }'
+
+      - name: Commit & Push changes
+        uses: actions-js/push@master
+        with:
+          branch: ${{ github.ref }}
+          message: "chore; Update CV pdf [skip ci]"
+          github_token: ${{ secrets.GITHUB_TOKEN }}
