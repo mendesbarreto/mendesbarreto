@@ -150,9 +150,9 @@ Apr 2009 – Feb 2010
 
 ## Education
 
-**Universidade Anhembi Morumbi** 2010
+**Universidade Anhembi Morumbi**
 
-Bachelor Degree in Game Design and Development
+Bachelor Degree in Game Design and Development - 2010
 
 ## Languages
 
