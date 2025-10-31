@@ -29,6 +29,8 @@ My goal is simple: build high-performing teams and scalable solutions that actua
 - Skilled in managing client relationships, defining requirements, and aligning technical solutions with business objectives.
 - Delivered technical talks and presentations to engineering teams on best practices in coding, testing, and QA implementation.
 
+<div class="page-break"></div>
+
 ## Tech Skills
 
 - Technology Polyglot Knowledgeable in a wide range of programming languages and frameworks, including Python, JavaScript/TypeScript, Go, C++, C#, Ruby, Swift, Objective-C, and ++.
@@ -69,6 +71,8 @@ Quebec, Canada
 - Architected and built a cross-platform Computer Vision framework in C++ to unify high-performance image and video processing for native iOS and Android.
 
 ---
+
+<div class="page-break"></div>
 
 **Senior iOS Developer**
 
