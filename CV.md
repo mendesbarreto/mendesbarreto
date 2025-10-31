@@ -147,3 +147,16 @@ Apr 2009 – Feb 2010
 - Engineered data parsing scripts to process and manipulate diverse formats (SMS, XML, CSV).
 
 ---
+
+## Education
+
+**Universidade Anhembi Morumbi** 2010
+Bachelor Degree in Game Design and Development
+
+---
+
+## Languages
+
+- Portuguese: Native
+- English: Fluent
+- French: Professional Working Proficiency
