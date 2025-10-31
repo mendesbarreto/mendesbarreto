@@ -47,4 +47,5 @@ jobs:
       - name: Commit & Push changes
         uses: actions-js/push@master
         with:
+          message: "chore; Update CV pdf [skip ci]"
           github_token: ${{ secrets.GITHUB_TOKEN }}
