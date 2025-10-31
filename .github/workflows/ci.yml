@@ -59,17 +59,13 @@ jobs:
 
       - name: Push changes to branch
         run: |
-          cd $SDK_REPO_PATH
+          git status
           git add -A
           (git commit -am $'chore: updates ${{ github.ref }} \n${{ env.GH_SHA_SHORT }}' && git tag $GIT_BRANCH-$COMMIT_DATE-$COMMIT_TIME-$GH_SHA_SHORT ) || true
 
       - name: Push changes to branch final
         run: |
-          cd $SDK_REPO_PATH
-          if [ ! -d "dist" ]; then
-              echo "No dist folder found, exiting..."
-              exit 1
-          fi
+          git status
           git pull --ff
           git push -u --set-upstream origin ${{ env.GIT_BRANCH }} --tags
           git status
