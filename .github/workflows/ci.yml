@@ -1,0 +1,71 @@
+name: Generate CV in PDF
+on:
+  workflow_dispatch:
+  workflow_call:
+  push:
+    branches:
+      - "!*"
+      - "cv"
+      - "master"
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+env:
+  GH_PAT: ${{ secrets.GH_PAT }}
+  GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  CI: true
+
+jobs:
+  md_to_pdf:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
+
+      - uses: actions/checkout@08c6903cd8c0fde910a37f88322edcfb5dd907a8 # v5
+        with:
+          fetch-depth: 10
+          persist-credentials: false
+
+      - name: General
+        run: |
+          GIT_BRANCH=${{ github.ref }}
+          echo "REPOSITORY_NAME=$(echo "$GITHUB_REPOSITORY" | awk -F / '{print $2}')" >> $GITHUB_ENV
+          echo "GIT_BRANCH=$(echo "${GIT_BRANCH/refs\/heads\//}")" >> $GITHUB_ENV
+          echo "COMMIT_DATE=$(git log -n 1 --pretty='format:%cd' --date=format:'%y-%m-%d')" >> $GITHUB_ENV
+          echo "COMMIT_TIME=$(git log -n 1 --pretty='format:%cd' --date=format:'%H-%M-%S')" >> $GITHUB_ENV
+          echo "CURRENT_DATETIME=$(date +'%Y-%m-%d %H:%M:%S')" >> $GITHUB_ENV
+          echo "GH_SHA_SHORT=$(echo $GITHUB_SHA | cut -c 1-7)" >> $GITHUB_ENV
+          git config --global user.name "xpertsea-bot"
+          git config --global url."https://${{ env.GH_PAT }}:x-oauth-basic@github.com/".insteadOf "https://github.com/"
+          git config --global url."https://${{ env.GH_PAT }}:x-oauth-basic@github.com/".insteadOf "ssh://git@github.com/"
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v6
+
+      - name: Install dependencies
+        run: npm i -g md-to-pdf
+
+      - name: Convert
+        run: |
+          md-to-pdf CV.md
+
+      - name: Push changes to branch
+        run: |
+          cd $SDK_REPO_PATH
+          git add -A
+          (git commit -am $'chore: updates ${{ github.ref }} \n${{ env.GH_SHA_SHORT }}' && git tag $GIT_BRANCH-$COMMIT_DATE-$COMMIT_TIME-$GH_SHA_SHORT ) || true
+
+      - name: Push changes to branch final
+        run: |
+          cd $SDK_REPO_PATH
+          if [ ! -d "dist" ]; then
+              echo "No dist folder found, exiting..."
+              exit 1
+          fi
+          git pull --ff
+          git push -u --set-upstream origin ${{ env.GIT_BRANCH }} --tags
+          git status
