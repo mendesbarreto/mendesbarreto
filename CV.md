@@ -159,3 +159,81 @@ Bachelor Degree in Game Design and Development - 2010
 - Portuguese: Native
 - English: Fluent
 - French: Professional Working Proficiency
+
+<div class="page-break"></div>
+
+## Main Projects
+
+**Kampi (Xpertsea)**
+
+Intelligent copilot for shrimp farmers using AI and computer vision to replace manual guesswork with data-driven insights. Features three pillars: Pond Vision for biometric monitoring via smartphone photos, Optima for predictive analytics and growth forecasting, and FarmBook for team coordination across the production chain.
+
+**Role:** Senior Software Engineering Manager  
+**Company:** Xpertsea  
+**Tech Stack:** Python, TypeScript/JS, MongoDB, MySQL, NodeJS, Bun, NextJS, Google Cloud, Terraform, Ansible, C++, Android, iOS, React Native + Native Development  
+**Time:** Oct 2021 – Present  
+**Link:** <https://bekampi.com/>
+
+- Led cross-functional team in development of AI-powered platform with three product pillars
+- Architected technical strategy for predictive analytics and computer vision systems
+- Managed technical roadmap for omnichannel platform supporting iOS, iPadOS, and web
+- Directed infrastructure modernization using Google Cloud, Terraform, and Ansible
+
+---
+
+**Social.Mom**
+
+Social network platform designed to counter social isolation during motherhood and reinforce the social safety net of families. Enables mothers to connect locally, plan activities, and access community groups and organizations in their area through a bilingual interface.
+
+**Role:** Senior Native iOS Developer  
+**Tech Stack:** iOS native, Android native, Java Springboot, React  
+**Time:** Oct 2019 – Aug 2021  
+**Link:** <https://social.mom/en>
+
+- Engineered and maintained high-traffic iOS application with bilingual support (English/French)
+- Led major re-architecture reducing maintenance overhead and new feature development time by 20%
+- Established formal testing culture with E2E and unit testing for improved application reliability
+
+---
+
+**Meu Carrefour**
+
+All-in-one retail companion and cornerstone of Carrefour Brazil's omnichannel strategy, empowering millions of users to manage loyalty rewards, shop for groceries online, and streamline in-store visits through smart utility tools like barcode scanning and proximity services.
+
+**Role:** Senior iOS Developer  
+**Tech Stack:** iOS native  
+**Time:** Feb 2016 – Jun 2016  
+
+- Developed comprehensive mobile shopping experience with barcode scanner and store locator
+- Implemented loyalty program integration with "Purple Label" discounts and cashback tracking
+- Built shopping list management system with cross-platform synchronization
+
+---
+
+**Itaú Unibanco Mobile Banking**
+
+Mobile banking application for one of Brazil's largest financial institutions, providing users with secure access to core banking services including account management and financial transactions.
+
+**Role:** Windows Phone and iOS Developer  
+**Tech Stack:** Windows Phone, iOS, .NET  
+**Time:** July 2015 – Jan 2016  
+
+- Implemented login with CPF for secure user authentication
+- Developed account statement functionality for transaction history access
+- Built transfers and payments features for core banking operations
+
+---
+
+**Mundo do Sítio**
+
+Persistent, multi-user virtual world designed to integrate pedagogical goals with immersive gameplay as a digital extension of the Sítio do Picapau Amarelo IP. Featured complex economy, social interactions, and library of educational mini-games for millions of Brazilian students.
+
+**Role:** Lead Game Programmer / Full Stack  
+**Tech Stack:** Unity 3D, Flash ActionScript (SWC), Java, SmartFox Server, HTML5/JS  
+**Time:** Aug 2010 – Apr 2015  
+
+- Engineered full-stack architecture handling high-concurrency traffic with low-latency communication
+- Developed interactive gameplay mechanics and real-time state synchronization for 30+ educational mini-games
+- Implemented secure authentication, profile registration, and parental control features for children's platform
+
+<div class="page-break"></div>
