@@ -201,7 +201,7 @@ Social network platform designed to counter social isolation during motherhood a
 All-in-one retail companion and cornerstone of Carrefour Brazil's omnichannel strategy, empowering millions of users to manage loyalty rewards, shop for groceries online, and streamline in-store visits through smart utility tools like barcode scanning and proximity services.
 
 **Role:** Senior iOS Developer  
-**Tech Stack:** iOS native  
+**Tech Stack:** iOS native, Typescript, NodeJS, JAVA
 **Time:** Feb 2016 – Jun 2016  
 
 - Developed comprehensive mobile shopping experience with barcode scanner and store locator
