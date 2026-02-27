@@ -60,7 +60,7 @@ Quebec, Canada
 - Introduced trunk-based development to the team, reducing gitflow overhead and significantly improving feature lead time.
 - Pioneered AI-powered 1:1 methodology creating searchable, data-driven records of discussions and goals.
 - Re-architected CI/CD pipelines, cutting build/deploy time from 50 to **7 minutes**.
-- Increased team productivity by **550%**, cutting feature lead time from 13 weeks to 2.
+- Increased feature delivery velocity by **5x**, reducing lead time from 13 weeks to 2 weeks.
 - Implemented Kanban, reducing planning time by **20%** with continuous development flow.
 - Designed engineering-product workflow reducing communication friction and meetings.
 - Oversaw the successful launch of 6 major projects.
