@@ -1,15 +1,15 @@
 @page {
-  margin: 15mm 20mm;
+  margin: 15mm 20mm !important;
 }
 
 h1 {
-  margin: 0 0 5px 0;
+  margin: 0 0 5px 0 !important;
 }
 
 h3 {
-  margin: 0;
+  margin: 0 !important;
 }
 
 .header {
-  margin-bottom: 10px;
+  margin-bottom: 10px !important;
 }

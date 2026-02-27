@@ -1,13 +1,6 @@
 {
   "stylesheet": ["style.css"],
-  "body_class": "markdown-body",
   "pdf_options": {
-    "format": "A4",
-    "margin": {
-      "top": "15mm",
-      "bottom": "15mm",
-      "left": "20mm",
-      "right": "20mm"
-    }
+    "format": "A4"
   }
 }
