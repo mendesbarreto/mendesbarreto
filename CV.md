@@ -3,7 +3,7 @@
   <h1 style="margin: 0 0 5px 0;">DOUGLAS MENDES BARRETO</h1>
   <h3 style="margin: 0;">Senior Software Engineering Manager</h3>
   <p>
-    +1 (581) 748 0657 • mendes-barreto@live.com • <a href="https://www.linkedin.com/in/mendesbarreto">in/mendesbarreto</a> • Gatineau, QC - Canada
+    +1 (581) 748 0657 • mendes-barreto@live.com • <a href="https://www.linkedin.com/in/mendesbarreto">LinkedIn</a> • <a href="https://github.com/mendesbarreto">GitHub</a> • <a href="https://mendesbarreto.gobit.dev/">Portfolio</a> • Gatineau, QC - Canada
   </p>
 </div>
 
