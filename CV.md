@@ -42,6 +42,8 @@ My goal is simple: build high-performing teams and scalable solutions that actua
 
 ---
 
+<div class="page-break"></div>
+
 ## Professional Experience
 
 **Senior Software Engineering Manager**
