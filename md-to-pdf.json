@@ -1,5 +1,6 @@
 {
-  "css": "@page { margin: 15mm 20mm; } h1 { margin: 0 0 5px 0; } h3 { margin: 0; } .header { margin-bottom: 10px; }",
+  "stylesheet": ["style.css"],
+  "body_class": "markdown-body",
   "pdf_options": {
     "format": "A4",
     "margin": {
