@@ -1,8 +1,8 @@
 
 <div>
   <img src="imgs/profile.jpg" alt="Douglas Mendes" width="200" style="border-radius: 50%;"/>
- │<h1>DOUGLAS MENDES BARRETO</h1>
-  <h3>Senior Software Engineer Manger</h3>
+  <h1>DOUGLAS MENDES BARRETO</h1>
+  <h3>Senior Software Engineering Manager</h3>
   <p>
     +1 (581) 748 0657 • mendes-barreto@live.com • <a href="https://www.linkedin.com/in/mendesbarreto">in/mendesbarreto</a> • Gatineau, QC - Canada
   </p>
@@ -33,7 +33,7 @@ My goal is simple: build high-performing teams and scalable solutions that actua
 
 ## Tech Skills
 
-- Technology Polyglot Knowledgeable in a wide range of programming languages and frameworks, including Python, JavaScript/TypeScript, Go, C++, C#, Ruby, Swift, Objective-C, and ++.
+- Technology Polyglot: Knowledgeable in a wide range of programming languages and frameworks, including Python, JavaScript/TypeScript, Go, C++, C#, Ruby, Swift, Objective-C, and more.
 - GraphQL, Restful APIs, Microservices Architecture, Event-Driven Systems.
 - Node JS, Next.js, React Native, Native iOS/Android Development.
 - Docker, Kubernetes, CI/CD Pipelines (Jenkins, GitHub Actions).
