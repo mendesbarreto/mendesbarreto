@@ -13,3 +13,8 @@ h3 {
 .header {
   margin-bottom: 10px !important;
 }
+
+.page-break {
+  page-break-before: always;
+  break-before: page;
+}
