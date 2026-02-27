@@ -42,7 +42,7 @@ jobs:
 
       - name: Convert
         run: |
-          md-to-pdf CV.md --launch-options='{ "args": ["--no-sandbox"] }'
+          md-to-pdf CV.md --config-file md-to-pdf.json --launch-options='{ "args": ["--no-sandbox"] }'
 
       - name: Commit & Push changes
         uses: actions-js/push@master
