@@ -47,7 +47,7 @@ My goal is simple: build high-performing teams and scalable solutions that actua
 
 **Senior Software Engineering Manager**
 
-Xpertsea - Predictive shrimp biomass control with AI delivering sustainable aquaculture solutions
+*Xpertsea - Predictive shrimp biomass control with AI delivering sustainable aquaculture solutions*
 
 51 - 100 employees
 
@@ -57,18 +57,18 @@ Quebec, Canada
 
 - Led a 9-engineer team in the development and scaling of complex applications.
 - Spearheaded a full-stack migration from AWS to Google Cloud, achieving an **20%** reduction in infrastructure costs.
-- Led and directly contributed to a full platform re-architecture, improving developer experience (DX) and user engagement (UX) to successfully drive the company to product-market fit.
+- Led platform re-architecture improving DX and UX, driving product-market fit.
 - Introduced trunk-based development to the team, reducing gitflow overhead and significantly improving feature lead time.
-- Pioneered a new 1:1 methodology that leveraged AI-powered summaries to create a searchable, data-driven history of discussions, goals, and team progress.
-- Led and directly contributed to the re-architecture of all CI/CD pipelines (frontend, backend, testing), cutting total build and deploy time from 50 minutes to **7 minutes**.
-- Increased team productivity by **550%** by optimizing development processes, cutting the average feature lead time from 13 weeks to 2 weeks.
-- Boosted team efficiency by implementing Kanban, leading to a **20%** reduction in planning time and a more simplified, continuous development flow.
-- Designed and implemented a collaborative workflow to bridge the gap between engineering and product, which minimized communication friction and cut down on unnecessary meetings.
+- Pioneered AI-powered 1:1 methodology creating searchable, data-driven records of discussions and goals.
+- Re-architected CI/CD pipelines, cutting build/deploy time from 50 to **7 minutes**.
+- Increased team productivity by **550%**, cutting feature lead time from 13 weeks to 2.
+- Implemented Kanban, reducing planning time by **20%** with continuous development flow.
+- Designed engineering-product workflow reducing communication friction and meetings.
 - Oversaw the successful launch of 6 major projects.
-- Introduced new engineering standards that improved code quality, reduced bug rates by **23%**, and streamlined team async communication.
+- Introduced engineering standards reducing bug rates by **23%** and streamlining async communication.
 - Managed all people functions, including performance reviews, mentorship, and conflict resolution.
-- Actively participated in development cycles, contributing code to backend services (Python, JS/TypeScript) and frontend Next.js applications to accelerate key initiatives.
-- Architected and built a cross-platform Computer Vision framework in C++ to unify high-performance image and video processing for native iOS and Android.
+- Contributed hands-on code to backend (Python, TS) and frontend (Next.js), accelerating key initiatives.
+- Built cross-platform C++ Computer Vision framework for native iOS and Android.
 
 ---
 
@@ -76,7 +76,7 @@ Quebec, Canada
 
 **Senior iOS Developer**
 
-Social.mom - Social Media for mothers focused on delivering a safe and supportive environment
+*Social.mom - Social Media for mothers focused on delivering a safe and supportive environment*
 
 11 - 20 employees
 
@@ -91,7 +91,7 @@ Oct 2019 – Oct 2020
 ---
 **Senior Software Engineer**
 
-Levio - Tech Consulting
+*Levio - Tech Consulting*
 
 1K - 5K employees
 
@@ -106,7 +106,7 @@ Jul 2018 - 2019 Oct
 ---
 **Senior Mobile Engineer**
 
-Concrete Solutions - Tech Consulting
+*Concrete Solutions - Tech Consulting*
 
 10K+ - employees
 
@@ -121,22 +121,22 @@ Jul 2015 – Aug 2018
 ---
 **Lead Game Programmer**
 
-Editora Globo - Publisher and developer of digital entertainment products
+*Editora Globo - Publisher and developer of digital entertainment products*
 
 500 - 1k employees
 
 Aug 2010 – Apr 2015
 
-- Progressed from Game Programmer to Lead, managing the full game development lifecycle, product concepting, and team leadership.
+- Progressed from Programmer to Lead, managing full game development lifecycle and team leadership.
 - Led the end-to-end development of cross-platform games (iOS, Android, Windows) using C# and Unity3D.
 - Architected and built critical backend services for MMO games, including login systems and room controllers, using SmartFoxServer (Java/MySQL).
 - Designed and developed a reusable Unity3D framework and custom engine tools, significantly increasing team productivity.
-- Implemented JIRA to establish and manage the team's development process.
+- Implemented JIRA to manage development process.
 
 ---
 **Junior Analyst Programmer**
 
-People Way - Tech Consulting
+*People Way - Tech Consulting*
 
 11 - 50 employees
 
@@ -168,10 +168,7 @@ Bachelor Degree in Game Design and Development - 2010
 
 Intelligent copilot for shrimp farmers using AI and computer vision to replace manual guesswork with data-driven insights. Features three pillars: Pond Vision for biometric monitoring via smartphone photos, Optima for predictive analytics and growth forecasting, and FarmBook for team coordination across the production chain.
 
-**Role:** Senior Software Engineering Manager  
-**Company:** Xpertsea  
 **Tech Stack:** Python, TypeScript/JS, MongoDB, MySQL, NodeJS, Bun, NextJS, Google Cloud, Terraform, Ansible, C++, Android, iOS, React Native + Native Development  
-**Time:** Oct 2021 – Present  
 **Link:** <https://bekampi.com/>
 
 - Led cross-functional team in development of AI-powered platform with three product pillars
@@ -185,9 +182,7 @@ Intelligent copilot for shrimp farmers using AI and computer vision to replace m
 
 Social network platform designed to counter social isolation during motherhood and reinforce the social safety net of families. Enables mothers to connect locally, plan activities, and access community groups and organizations in their area through a bilingual interface.
 
-**Role:** Senior Native iOS Developer  
 **Tech Stack:** iOS native, Android native, Java Springboot, React  
-**Time:** Oct 2019 – Aug 2021  
 **Link:** <https://social.mom/en>
 
 - Engineered and maintained high-traffic iOS application with bilingual support (English/French)
@@ -200,9 +195,7 @@ Social network platform designed to counter social isolation during motherhood a
 
 All-in-one retail companion and cornerstone of Carrefour Brazil's omnichannel strategy, empowering millions of users to manage loyalty rewards, shop for groceries online, and streamline in-store visits through smart utility tools like barcode scanning and proximity services.
 
-**Role:** Senior iOS Developer  
-**Tech Stack:** iOS native, Typescript, NodeJS, JAVA
-**Time:** Feb 2016 – Jun 2016  
+**Tech Stack:** iOS native, Typescript, NodeJS, JAVA  
 
 - Developed comprehensive mobile shopping experience with barcode scanner and store locator
 - Implemented loyalty program integration with "Purple Label" discounts and cashback tracking
@@ -214,9 +207,7 @@ All-in-one retail companion and cornerstone of Carrefour Brazil's omnichannel st
 
 Mobile banking application for one of Brazil's largest financial institutions, providing users with secure access to core banking services including account management and financial transactions.
 
-**Role:** Windows Phone and iOS Developer  
 **Tech Stack:** Windows Phone, iOS, .NET  
-**Time:** July 2015 – Jan 2016  
 
 - Implemented login with CPF for secure user authentication
 - Developed account statement functionality for transaction history access
@@ -228,9 +219,7 @@ Mobile banking application for one of Brazil's largest financial institutions, p
 
 Persistent, multi-user virtual world designed to integrate pedagogical goals with immersive gameplay as a digital extension of the Sítio do Picapau Amarelo IP. Featured complex economy, social interactions, and library of educational mini-games for millions of Brazilian students.
 
-**Role:** Lead Game Programmer / Full Stack  
 **Tech Stack:** Unity 3D, Flash ActionScript (SWC), Java, SmartFox Server, HTML5/JS  
-**Time:** Aug 2010 – Apr 2015  
 
 - Engineered full-stack architecture handling high-concurrency traffic with low-latency communication
 - Developed interactive gameplay mechanics and real-time state synchronization for 30+ educational mini-games
