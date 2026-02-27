@@ -71,6 +71,8 @@ Quebec, Canada
 
 ---
 
+<div class="page-break"></div>
+
 **Senior iOS Developer**
 
 *Social.mom - Social Media for mothers focused on delivering a safe and supportive environment*
