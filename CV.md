@@ -42,8 +42,6 @@ My goal is simple: build high-performing teams and scalable solutions that actua
 
 ---
 
-<div class="page-break"></div>
-
 ## Professional Experience
 
 **Senior Software Engineering Manager**
@@ -72,8 +70,6 @@ Quebec, Canada
 - Built cross-platform C++ Computer Vision framework for native iOS and Android.
 
 ---
-
-<div class="page-break"></div>
 
 **Senior iOS Developer**
 
