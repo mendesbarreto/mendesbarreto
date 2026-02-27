@@ -34,7 +34,7 @@ My goal is simple: build high-performing teams and scalable solutions that actua
 
 - Technology Polyglot: Knowledgeable in a wide range of programming languages and frameworks, including Python, JavaScript/TypeScript, Go, C++, C#, Ruby, Swift, Objective-C, and more.
 - GraphQL, Restful APIs, Microservices Architecture, Event-Driven Systems.
-- Node JS, Next.js, React Native, Native iOS/Android Development.
+- Node.js, Next.js, React Native, Native iOS/Android Development.
 - Docker, Kubernetes, CI/CD Pipelines (Jenkins, GitHub Actions).
 - MySQL, PostgreSQL, MongoDB, Redis.
 - Automation, Testing (Unit, Integration, E2E), TDD/BDD.
@@ -55,7 +55,7 @@ Quebec, Canada
 2020-10 – Present
 
 - Led a 9-engineer team in the development and scaling of complex applications.
-- Spearheaded a full-stack migration from AWS to Google Cloud, achieving an **20%** reduction in infrastructure costs.
+- Spearheaded a full-stack migration from AWS to Google Cloud, achieving a **20%** reduction in infrastructure costs.
 - Led platform re-architecture improving DX and UX, driving product-market fit.
 - Introduced trunk-based development to the team, reducing gitflow overhead and significantly improving feature lead time.
 - Pioneered AI-powered 1:1 methodology creating searchable, data-driven records of discussions and goals.
@@ -94,7 +94,7 @@ Oct 2019 – Oct 2020
 
 1K - 5K employees
 
-Jul 2018 - 2019 Oct
+Jul 2018 – Oct 2019
 
 - Engineered and maintained scalable, high-availability backend services for multiple clients using .NET C#.
 - Executed complex legacy modernization projects, successfully migrating critical client systems from COBOL to modern .NET platforms.
@@ -107,7 +107,7 @@ Jul 2018 - 2019 Oct
 
 *Concrete Solutions - Tech Consulting*
 
-10K+ - employees
+10K+ employees
 
 Jul 2015 – Aug 2018
 
@@ -122,7 +122,7 @@ Jul 2015 – Aug 2018
 
 *Editora Globo - Publisher and developer of digital entertainment products*
 
-500 - 1k employees
+500 - 1K employees
 
 Aug 2010 – Apr 2015
 
@@ -151,7 +151,7 @@ Apr 2009 – Feb 2010
 
 **Universidade Anhembi Morumbi**
 
-Bachelor Degree in Game Design and Development - 2010
+Bachelor's Degree in Game Design and Development - 2010
 
 ## Languages
 
@@ -167,7 +167,7 @@ Bachelor Degree in Game Design and Development - 2010
 
 Intelligent copilot for shrimp farmers using AI and computer vision to replace manual guesswork with data-driven insights. Features three pillars: Pond Vision for biometric monitoring via smartphone photos, Optima for predictive analytics and growth forecasting, and FarmBook for team coordination across the production chain.
 
-**Tech Stack:** Python, TypeScript/JS, MongoDB, MySQL, NodeJS, Bun, NextJS, Google Cloud, Terraform, Ansible, C++, Android, iOS, React Native + Native Development  
+**Tech Stack:** Python, TypeScript/JS, MongoDB, MySQL, Node.js, Bun, Next.js, Google Cloud, Terraform, Ansible, C++, Android, iOS, React Native + Native Development  
 **Link:** <https://bekampi.com/>
 
 - Led cross-functional team in development of AI-powered platform with three product pillars
@@ -181,7 +181,7 @@ Intelligent copilot for shrimp farmers using AI and computer vision to replace m
 
 Social network platform designed to counter social isolation during motherhood and reinforce the social safety net of families. Enables mothers to connect locally, plan activities, and access community groups and organizations in their area through a bilingual interface.
 
-**Tech Stack:** iOS native, Android native, Java Springboot, React  
+**Tech Stack:** iOS native, Android native, Java Spring Boot, React  
 **Link:** <https://social.mom/en>
 
 - Engineered and maintained high-traffic iOS application with bilingual support (English/French)
@@ -194,7 +194,7 @@ Social network platform designed to counter social isolation during motherhood a
 
 All-in-one retail companion and cornerstone of Carrefour Brazil's omnichannel strategy, empowering millions of users to manage loyalty rewards, shop for groceries online, and streamline in-store visits through smart utility tools like barcode scanning and proximity services.
 
-**Tech Stack:** iOS native, Typescript, NodeJS, JAVA  
+**Tech Stack:** iOS native, TypeScript, Node.js, Java  
 
 - Developed comprehensive mobile shopping experience with barcode scanner and store locator
 - Implemented loyalty program integration with "Purple Label" discounts and cashback tracking
