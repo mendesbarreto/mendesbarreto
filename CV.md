@@ -1,10 +1,3 @@
-<style>
-  @page { margin: 15mm 20mm; }
-  h1 { margin: 0 0 5px 0; }
-  h3 { margin: 0; }
-  .header { margin-bottom: 10px; }
-</style>
-
 <div class="header">
   <img src="imgs/profile.jpg" alt="Douglas Mendes" width="140" style="border-radius: 50%;"/>
   <h1>DOUGLAS MENDES BARRETO</h1>
