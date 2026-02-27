@@ -201,6 +201,7 @@ All-in-one retail companion and cornerstone of Carrefour Brazil's omnichannel st
 - Built shopping list management system with cross-platform synchronization
 
 ---
+<div class="page-break"></div>
 
 **Itaú Unibanco Mobile Banking**
 
