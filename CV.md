@@ -9,16 +9,17 @@
 
 ## Professional Summary
 
-With 14 years in software engineering, I’ve worked across the full stack, leading and mentoring teams that ship quality products. My focus is on delivering what clients actually need by collaborating closely with product and design and ruthlessly trimming down processes. This means practical agile, a strong focus on automation, and a culture of high quality.
+With 14+ years in software engineering, I've worked across the full stack, leading and mentoring teams that ship quality products. My focus is on delivering what clients actually need by collaborating closely with product and design, leveraging AI-augmented workflows, and ruthlessly trimming down processes. This means practical agile, automation, and a culture of high quality.
 
-I stay hands-on by architecting systems, managing migrations, and consulting. This keeps my skills sharp and helps me understand my team's challenges.
+I stay hands-on by architecting systems, managing migrations, and implementing AI tools that multiply team productivity. This keeps my skills sharp and helps me understand my team's challenges.
 
-My goal is simple: build high-performing teams and scalable solutions that actually work.
+My goal is simple: build high-performing teams and scalable solutions that actually work, enhanced by strategic AI adoption.
 
 ---
 
 ## Management Skills
 
+- Strategic implementation of AI-powered development workflows and knowledge transfer programs to increase team productivity and cross-functional collaboration.
 - Expert in Scrum and Kanban methodologies, fostering collaborative and high-performing teams.
 - Proven track record of mentoring engineers, leading technical teams, and developing talent from junior to senior levels.
 - Experienced in collaborating with product managers, designers, and cross-functional teams to deliver robust solutions.
@@ -32,6 +33,7 @@ My goal is simple: build high-performing teams and scalable solutions that actua
 
 ## Tech Skills
 
+- AI-Powered Development Tools: GitHub Copilot, Claude Code, OpenCode, Codex, copilot-cli.
 - Technology Polyglot: Knowledgeable in a wide range of programming languages and frameworks, including Python, JavaScript/TypeScript, Go, C++, C#, Ruby, Swift, Objective-C, and more.
 - GraphQL, Restful APIs, Microservices Architecture, Event-Driven Systems.
 - Node.js, Next.js, React Native, Native iOS/Android Development.
@@ -54,6 +56,8 @@ Quebec, Canada
 
 2020-10 – Present
 
+- Built self-service AI prototyping workflow, cutting PoC delivery time from 2 days to **4 hours**.
+- Deployed AI tooling and training, boosting per-engineer productivity by **3x** with maintained quality.
 - Led a 9-engineer team in the development and scaling of complex applications.
 - Spearheaded a full-stack migration from AWS to Google Cloud, achieving a **20%** reduction in infrastructure costs.
 - Led platform re-architecture improving DX and UX, driving product-market fit.
