@@ -1,22 +1,21 @@
+import { getApiProfileUserId, getServiceUrl } from 'module-personal-profile-js-sdk';
 import type { APIResponse } from './types';
 import { formatProfessionalExperience } from './formatters/experience';
 import { formatMainProjects } from './formatters/projects';
 import { formatTechSkills, formatManagementSkills, formatLanguages } from './formatters/skills';
 import { formatYear } from './formatters/dates';
 
-const API_URL = 'https://api.mendesbarreto.gobit.dev/api/profile/69aa3ae146d8807e7f4071ee';
+const USER_ID = '69aa3ae146d8807e7f4071ee';
 const TEMPLATE_PATH = 'CV-TEMPLATE.md';
 const OUTPUT_PATH = 'CV.md';
 
 async function fetchProfileData(): Promise<APIResponse> {
   console.log('Fetching profile data from API...');
-  const response = await fetch(API_URL);
   
-  if (!response.ok) {
-    throw new Error(`API request failed: ${response.statusText}`);
-  }
+  const { apiUrl, env } = getServiceUrl();
+  console.log(`Using API URL: ${apiUrl} (env: ${env})`);
   
-  const data = await response.json() as APIResponse;
+  const data = await getApiProfileUserId(USER_ID) as unknown as APIResponse;
   console.log('✓ Profile data fetched successfully');
   return data;
 }
