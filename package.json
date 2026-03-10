@@ -1,0 +1,13 @@
+{
+  "name": "cv-generator",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "generate-cv": "bun run src/generate-cv.ts",
+    "dev": "bun --watch run src/generate-cv.ts"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@types/bun": "latest"
+  }
+}
