@@ -22,13 +22,7 @@ ${formatDate(exp.startDate)} – ${exp.endDate ? formatDate(exp.endDate) : 'Pres
 ${exp.highlights.map(h => `- ${h}`).join('\n')}
 `;
 
-    let result = expText + '\n---\n';
-    
-    if (index === 1) {
-      result += '\n<div class="page-break"></div>\n';
-    }
-    
-    return result;
+    return expText + '\n---\n';
   });
   
   return formattedExperiences.join('\n');
