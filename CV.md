@@ -89,8 +89,6 @@ Sep 2019 – Sep 2020
 
 ---
 
-<div class="page-break"></div>
-
 **Senior Software Engineer**
 
 *Levio - Tech Consulting*
