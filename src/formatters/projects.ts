@@ -1,6 +1,6 @@
-import type { Project } from '../types';
+import type { UserProject } from 'module-personal-profile-js-sdk';
 
-export function formatMainProjects(projects: Project[]): string {
+export function formatMainProjects(projects: UserProject[]): string {
   const formattedProjects = projects.map((project, index) => {
     let projectText = `**${project.name}${project.company ? ` (${project.company})` : ''}**
 

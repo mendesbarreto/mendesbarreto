@@ -1,6 +1,6 @@
-import type { TechSkillCategory, ManagementSkill, Language } from '../types';
+import type { TechSkills, ManagementSkills, UserProfileLanguagesItem } from 'module-personal-profile-js-sdk';
 
-export function formatTechSkills(skills: TechSkillCategory[]): string {
+export function formatTechSkills(skills: TechSkills[]): string {
   const skillLines = [
     '- AI-Powered Development Tools: GitHub Copilot, Claude Code, OpenCode, Codex, copilot-cli.',
     '- Technology Polyglot: Knowledgeable in a wide range of programming languages and frameworks, including Python, JavaScript/TypeScript, Go, C++, C#, Ruby, Swift, Objective-C, and more.',
@@ -15,10 +15,10 @@ export function formatTechSkills(skills: TechSkillCategory[]): string {
   return skillLines.join('\n');
 }
 
-export function formatManagementSkills(skills: ManagementSkill[]): string {
+export function formatManagementSkills(skills: ManagementSkills[]): string {
   return skills.map(skill => `- ${skill.description}`).join('\n');
 }
 
-export function formatLanguages(languages: Language[]): string {
+export function formatLanguages(languages: UserProfileLanguagesItem[]): string {
   return languages.map(lang => `- ${lang.name}: ${lang.proficiency}`).join('\n');
 }

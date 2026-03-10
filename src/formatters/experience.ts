@@ -1,7 +1,7 @@
-import type { Experience } from '../types';
+import type { ProfessionalExperience } from 'module-personal-profile-js-sdk';
 import { formatDate } from './dates';
 
-export function formatProfessionalExperience(experiences: Experience[]): string {
+export function formatProfessionalExperience(experiences: ProfessionalExperience[]): string {
   const formattedExperiences = experiences.map((exp, index) => {
     let expText = `**${exp.title}**
 
