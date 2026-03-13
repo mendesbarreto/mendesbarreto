@@ -24,9 +24,9 @@ My goal is simple: build strong teams and scalable products that deliver real bu
 - Managing performance, team health, and difficult conversations with clarity and empathy
 - Hiring and building teams aligned with product and engineering needs
 - Driving roadmap execution and delivery with Scrum, Kanban, and pragmatic agile practices
+- Leading migrations, platform improvements, and multi-team initiatives
 - Partnering closely with product managers and designers to align execution with business goals
 - Shaping technical strategy, architecture direction, and platform evolution with senior engineers
-- Leading migrations, platform improvements, and multi-team initiatives
 - Designing engineering processes that improve quality, flow, and team effectiveness
 - Communicating clearly with stakeholders through planning, reporting, presentations, and async updates
 - Helping teams adopt AI tools and workflows in practical day-to-day work
@@ -47,6 +47,22 @@ My goal is simple: build strong teams and scalable products that deliver real bu
 ---
 
 ## Professional Experience
+
+**Senior iOS Developer**
+
+*Social.mom - Social Media for mothers focused on delivering a safe and supportive environment*
+
+11 - 20 employees
+
+Oct 2019 – Oct 2020
+
+- Engineered and maintained a high-traffic iOS application while leading the migration of key features from Objective-C to Swift
+- Led a major re-architecture of the native codebase, reducing maintenance overhead and cutting feature development time by 20%
+- Built automation scripts that eliminated hundreds of hours of repetitive manual work for the team
+- Established a testing culture by introducing unit and E2E testing, improving reliability and release confidence
+- Mentored engineers on software design, SOLID principles, and modern architectural patterns
+
+---
 
 **Senior Software Engineering Manager**
 
@@ -74,19 +90,19 @@ Oct 2020 – Present
 
 ---
 
-**Senior iOS Developer**
+**Lead Game Programmer**
 
-*Social.mom - Social Media for mothers focused on delivering a safe and supportive environment*
+*Editora Globo - Publisher and developer of digital entertainment products*
 
-11 - 20 employees
+500 - 1K employees
 
-Oct 2019 – Oct 2020
+Aug 2010 – Apr 2015
 
-- Engineered and maintained a high-traffic iOS application while leading the migration of key features from Objective-C to Swift
-- Led a major re-architecture of the native codebase, reducing maintenance overhead and cutting feature development time by 20%
-- Built automation scripts that eliminated hundreds of hours of repetitive manual work for the team
-- Established a testing culture by introducing unit and E2E testing, improving reliability and release confidence
-- Mentored engineers on software design, SOLID principles, and modern architectural patterns
+- Progressed from Programmer to Lead, managing the game development lifecycle alongside technical leadership responsibilities
+- Led end-to-end development of cross-platform games for iOS, Android, and Windows using C# and Unity3D
+- Architected and built backend services for MMO games, including login systems and room controllers, using SmartFoxServer with Java and MySQL
+- Designed a reusable Unity3D framework and custom engine tooling that significantly improved team productivity
+- Implemented JIRA to formalize planning and execution processes
 
 ---
 
@@ -122,22 +138,6 @@ Jul 2015 – Aug 2018
 
 ---
 
-**Lead Game Programmer**
-
-*Editora Globo - Publisher and developer of digital entertainment products*
-
-500 - 1K employees
-
-Aug 2010 – Apr 2015
-
-- Progressed from Programmer to Lead, managing the game development lifecycle alongside technical leadership responsibilities
-- Led end-to-end development of cross-platform games for iOS, Android, and Windows using C# and Unity3D
-- Architected and built backend services for MMO games, including login systems and room controllers, using SmartFoxServer with Java and MySQL
-- Designed a reusable Unity3D framework and custom engine tooling that significantly improved team productivity
-- Implemented JIRA to formalize planning and execution processes
-
----
-
 **Junior Analyst Programmer**
 
 *People Way - Tech Consulting*
@@ -169,30 +169,15 @@ Bachelor's Degree in Game Design and Development - 2010
 
 ## Main Projects
 
-**Kampi (Xpertsea)**
+**Itaú Unibanco Mobile Banking (Itaú Unibanco)**
 
-Intelligent copilot for shrimp farmers using AI and computer vision to replace manual guesswork with data-driven insights. Features three pillars: Pond Vision for biometric monitoring via smartphone photos, Optima for predictive analytics and growth forecasting, and FarmBook for team coordination across the production chain.
+Mobile banking application for one of Brazil's largest financial institutions, providing users with secure access to core banking services including account management and financial transactions.
 
-**Tech Stack:** Python, TypeScript/JS, MongoDB, MySQL, Node.js, Bun, Next.js, Google Cloud, Terraform, Ansible, C++, Android, iOS, React Native + Native Development  
-**Link:** <https://bekampi.com/>
+**Tech Stack:** Windows Phone, iOS, .NET  
 
-- Led a cross-functional team in development of an AI-powered platform spanning computer vision, predictive analytics, and operational workflows
-- Defined technical direction for predictive systems and computer vision capabilities
-- Managed the technical roadmap for an omnichannel platform supporting iOS, iPadOS, and web
-- Directed infrastructure modernization using Google Cloud, Terraform, and Ansible
-
----
-
-**Social.Mom (Social.mom)**
-
-Social network platform designed to counter social isolation during motherhood and reinforce the social safety net of families. Enables mothers to connect locally, plan activities, and access community groups and organizations in their area through a bilingual interface.
-
-**Tech Stack:** iOS native, Android native, Java Spring Boot, React  
-**Link:** <https://social.mom/en>
-
-- Owned major iOS development work for a high-traffic bilingual social platform
-- Led native re-architecture efforts that reduced maintenance overhead and improved delivery speed
-- Introduced testing practices that strengthened reliability and release confidence
+- Built secure authentication flows for mobile banking access
+- Developed account visibility features including transaction history
+- Implemented transfers and payments as part of the core banking experience
 
 ---
 
@@ -208,17 +193,32 @@ All-in-one retail companion and cornerstone of Carrefour Brazil's omnichannel st
 
 ---
 
+**Kampi (Xpertsea)**
+
+Intelligent copilot for shrimp farmers using AI and computer vision to replace manual guesswork with data-driven insights. Features three pillars: Pond Vision for biometric monitoring via smartphone photos, Optima for predictive analytics and growth forecasting, and FarmBook for team coordination across the production chain.
+
+**Tech Stack:** Python, TypeScript/JS, MongoDB, MySQL, Node.js, Bun, Next.js, Google Cloud, Terraform, Ansible, C++, Android, iOS, React Native + Native Development  
+**Link:** <https://bekampi.com/>
+
+- Led a cross-functional team in development of an AI-powered platform spanning computer vision, predictive analytics, and operational workflows
+- Defined technical direction for predictive systems and computer vision capabilities
+- Managed the technical roadmap for an omnichannel platform supporting iOS, iPadOS, and web
+- Directed infrastructure modernization using Google Cloud, Terraform, and Ansible
+
+---
+
 <div class="page-break"></div>
 
-**Itaú Unibanco Mobile Banking (Itaú Unibanco)**
+**Social.Mom (Social.mom)**
 
-Mobile banking application for one of Brazil's largest financial institutions, providing users with secure access to core banking services including account management and financial transactions.
+Social network platform designed to counter social isolation during motherhood and reinforce the social safety net of families. Enables mothers to connect locally, plan activities, and access community groups and organizations in their area through a bilingual interface.
 
-**Tech Stack:** Windows Phone, iOS, .NET  
+**Tech Stack:** iOS native, Android native, Java Spring Boot, React  
+**Link:** <https://social.mom/en>
 
-- Built secure authentication flows for mobile banking access
-- Developed account visibility features including transaction history
-- Implemented transfers and payments as part of the core banking experience
+- Owned major iOS development work for a high-traffic bilingual social platform
+- Led native re-architecture efforts that reduced maintenance overhead and improved delivery speed
+- Introduced testing practices that strengthened reliability and release confidence
 
 ---
 
