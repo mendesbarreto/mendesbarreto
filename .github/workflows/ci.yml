@@ -42,11 +42,22 @@ jobs:
 
       - name: Convert
         run: |
-          md-to-pdf CV.md --config-file md-to-pdf.json --launch-options='{ "args": ["--no-sandbox"] }'
+          shopt -s nullglob
+          cv_files=(CV*.md)
+
+          if [ ${#cv_files[@]} -eq 0 ]; then
+            echo "No CV markdown files found."
+            exit 0
+          fi
+
+          for cv_file in "${cv_files[@]}"; do
+            echo "Generating PDF for ${cv_file}"
+            md-to-pdf "${cv_file}" --config-file md-to-pdf.json --launch-options='{ "args": ["--no-sandbox"] }'
+          done
 
       - name: Commit & Push changes
         uses: actions-js/push@master
         with:
           branch: ${{ github.ref }}
-          message: "chore: Update CV pdf [skip ci]"
+          message: "chore: Update CV pdfs [skip ci]"
           github_token: ${{ secrets.GITHUB_TOKEN }}
