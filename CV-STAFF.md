@@ -9,38 +9,32 @@
 
 ## Professional Summary
 
-Staff-level software engineer with **14+ years** of experience building products across backend, frontend, mobile, cloud infrastructure, and applied AI. I operate at the intersection of architecture, execution, and cross-functional leadership, helping teams turn ambiguous product goals into reliable systems and shipped outcomes.
-
-My work is centered on scaling engineering through better technical direction, stronger platform foundations, practical automation, and clear decision-making. I stay hands-on with architecture, critical implementation work, and delivery strategy, especially in environments that require modernization, migration, or multi-team coordination.
-
-I’m most effective in roles that need broad technical range, end-to-end ownership, and engineering leadership without losing proximity to the code.
+Staff-level Software Engineer with **14+ years** of experience delivering software across mobile, web, backend, and platform engineering. My work centers on technical strategy, system design, modernization, and execution in environments that need both strong architecture and pragmatic delivery. I bring a hands-on approach to solving complex product and platform problems while raising engineering standards across teams.
 
 ---
 
 ## Staff Engineering Strengths
 
-- Driving technical strategy across product, platform, and infrastructure
-- Leading architecture decisions and translating them into executable roadmaps
-- Operating as a hands-on technical lead on high-leverage and high-ambiguity initiatives
-- Improving delivery systems, developer experience, and engineering effectiveness
-- Leading migrations, modernization efforts, and platform evolution across multiple domains
-- Partnering with product, design, data, and operations to align technical choices with business outcomes
-- Mentoring senior engineers and raising engineering standards through design review and technical guidance
-- Building scalable systems using pragmatic tradeoffs instead of overengineering
-- Introducing automation and AI-assisted workflows that accelerate prototyping and delivery
-- Communicating clearly with stakeholders through technical narratives, proposals, and execution plans
+- Technical direction for complex, multi-domain products
+- System design for scalable backend, mobile, and platform systems
+- Driving modernization across architecture, tooling, and workflows
+- Leading high-ambiguity initiatives from concept to production
+- Improving engineering effectiveness through automation and platform investments
+- Cross-functional partnership with product, design, and operations
+- Raising code quality through technical guidance and review
+- Translating business goals into executable technical plans
 
 <div class="page-break"></div>
 
 ## Tech Skills
 
-- Languages: Python, JavaScript/TypeScript, Go, C++, C#, Ruby, Swift, Objective-C
-- Backend and APIs: Node.js, GraphQL, REST APIs, microservices, event-driven systems
-- Frontend and Mobile: React, Next.js, React Native, native iOS, native Android
-- Cloud and Platform: Google Cloud, AWS, Docker, Kubernetes, Terraform, Ansible, CI/CD
-- Data and Storage: MySQL, PostgreSQL, MongoDB, Redis
-- Engineering Practices: system design, testing strategy, trunk-based development, TDD/BDD, design patterns, SOLID
-- Tooling and Automation: GitHub Actions, Jenkins, build pipeline optimization, developer workflows, AI-powered development tools
+- Programming Languages: Python, TypeScript/JavaScript, Go, C++, C#, Ruby, Swift, Objective-C
+- Distributed Systems: REST APIs, GraphQL, microservices, event-driven architectures
+- Product Engineering: Node.js, React, Next.js, React Native, native iOS, native Android
+- Platform and Cloud: Google Cloud, AWS, Docker, Kubernetes, Terraform, Ansible, CI/CD
+- Data Systems: MySQL, PostgreSQL, MongoDB, Redis
+- Engineering Practices: system design, modernization, testing strategy, trunk-based development, design patterns, SOLID
+- Productivity and Automation: GitHub Actions, Jenkins, developer tooling, AI-powered development workflows
 
 ---
 
@@ -56,17 +50,15 @@ Quebec, Canada
 
 Oct 2020 – Present
 
-- Led technical direction for a product portfolio spanning AI-assisted workflows, computer vision, predictive systems, and operational software
-- Served as the senior engineering lead for a 9-engineer team, combining people leadership with hands-on architecture and delivery ownership
-- Built a self-service AI prototyping workflow that materially reduced time required for early product validation
-- Increased delivery speed by 5x, reducing lead time from 13 weeks to 2 weeks through workflow, architecture, and process changes
-- Introduced Kanban and trunk-based development to improve flow, reduce batch size, and strengthen release cadence
-- Reworked CI/CD pipelines, reducing build and deploy time from 50 minutes to 7 minutes
-- Led a full-stack migration from AWS to Google Cloud, reducing infrastructure costs by 20% while improving platform consistency
-- Drove platform improvements that strengthened scalability, developer experience, and cross-team execution
-- Partnered with product and design to align roadmap decisions with technical constraints, business goals, and delivery capacity
-- Supported engineers through architecture guidance, technical review, and high-leverage implementation across backend, frontend, and computer vision work
-- Oversaw the successful launch of 6 major projects
+- Set technical direction for AI-enabled product development across predictive analytics, operational tooling, and computer vision systems
+- Operated as the hands-on technical lead for a 9-engineer team, driving architecture decisions and delivery execution
+- Built internal AI prototyping workflows that reduced time-to-validation for new product ideas
+- Reduced lead time from 13 weeks to 2 weeks by redesigning engineering workflows, tightening delivery loops, and improving technical foundations
+- Introduced trunk-based development and Kanban to increase throughput and reduce coordination overhead
+- Rebuilt CI/CD pipelines, cutting build and deployment time from 50 minutes to 7 minutes
+- Led migration from AWS to Google Cloud, lowering infrastructure costs by 20%
+- Improved platform scalability and developer effectiveness through architectural and tooling investments
+- Partnered with product and design to translate roadmap goals into technically executable plans
 
 ---
 
@@ -78,11 +70,11 @@ Oct 2020 – Present
 
 Oct 2019 – Oct 2020
 
-- Led re-architecture of a high-traffic iOS application, reducing maintenance overhead and cutting feature development time by 20%
-- Drove migration of key features from Objective-C to Swift, improving codebase consistency and maintainability
-- Built automation scripts that removed hundreds of hours of repetitive manual work from the delivery process
-- Introduced unit and end-to-end testing, increasing release confidence and improving product reliability
-- Acted as a senior technical reference on architecture, code quality, and modern engineering practices
+- Led re-architecture of the iOS codebase for a high-traffic social platform, improving maintainability and reducing feature delivery time by 20%
+- Directed migration from Objective-C to Swift to modernize the native stack and improve long-term development velocity
+- Built automation tooling that eliminated hundreds of hours of repetitive operational work
+- Established unit and end-to-end testing practices that increased release confidence and engineering discipline
+- Served as the primary technical reference for iOS architecture and code quality
 
 ---
 
@@ -94,11 +86,11 @@ Oct 2019 – Oct 2020
 
 Jul 2018 – Oct 2019
 
-- Built and maintained high-availability backend services for multiple clients using .NET C#
-- Led legacy modernization efforts, migrating critical systems from COBOL to modern .NET platforms
-- Improved collaboration and delivery practices by guiding migrations from legacy version control systems to Git
-- Worked directly with client stakeholders and cross-functional teams to shape requirements and deliver robust systems
-- Optimized CI pipelines to support faster and more reliable delivery
+- Engineered high-availability backend services for multiple client environments using .NET C#
+- Led modernization of legacy systems, migrating critical workflows from COBOL to modern .NET platforms
+- Improved engineering collaboration by driving source control migration from legacy systems to Git
+- Worked as a technical consultant with stakeholders and delivery teams to translate requirements into maintainable solutions
+- Strengthened delivery reliability through CI pipeline improvements and automation
 
 ---
 
@@ -110,9 +102,9 @@ Jul 2018 – Oct 2019
 
 Jul 2015 – Aug 2018
 
-- Led architecture and development of native mobile applications across financial and retail clients
+- Expanded into senior-level mobile engineering ownership, leading architecture and development for native applications across financial and retail clients
 - Delivered 3 mobile banking applications and 4 e-commerce apps in regulated and high-scale environments
-- Architected a white-label e-commerce mobile platform that enabled rapid rollout of customized storefronts from one codebase
+- Architected a white-label e-commerce mobile platform that enabled rapid rollout of customized storefronts from a single codebase
 - Designed CI/CD pipelines with Jenkins, Bitrise, and Travis CI to improve release reliability and team throughput
 - Raised engineering quality through technical talks on coding standards, testing practices, and QA implementation
 
@@ -126,11 +118,11 @@ Jul 2015 – Aug 2018
 
 Aug 2010 – Apr 2015
 
-- Led end-to-end engineering of cross-platform games for iOS, Android, and Windows using C# and Unity3D
-- Architected backend services for MMO-style games, including authentication, room control, and persistent multiplayer systems
-- Built reusable Unity3D framework components and tooling that improved team productivity and consistency
-- Developed gameplay and platform systems for products combining educational goals with large-scale digital distribution
-- Helped formalize planning and execution processes through JIRA adoption
+- Took on technical leadership for cross-platform game development across iOS, Android, and Windows using C# and Unity3D
+- Architected backend systems for multiplayer experiences, including login, room control, and persistent game services
+- Created reusable Unity3D framework layers and tooling that increased team productivity
+- Developed large-scale gameplay and platform systems for educational digital products
+- Improved team execution by introducing JIRA-based planning workflows
 
 ---
 
@@ -171,10 +163,10 @@ Intelligent copilot for shrimp farmers using AI and computer vision to replace m
 **Tech Stack:** Python, TypeScript/JS, MongoDB, MySQL, Node.js, Bun, Next.js, Google Cloud, Terraform, Ansible, C++, Android, iOS, React Native + Native Development  
 **Link:** <https://bekampi.com/>
 
-- Led technical direction for an AI-powered product spanning computer vision, predictive analytics, and operational workflows
-- Defined architecture and execution strategy for predictive systems and computer vision capabilities
-- Guided delivery of an omnichannel platform supporting iOS, iPadOS, and web experiences
-- Directed infrastructure modernization using Google Cloud, Terraform, and Ansible
+- Led technical strategy for an AI-powered platform combining computer vision, predictive analytics, and farm operations workflows
+- Defined architecture and delivery approach for predictive systems, mobile experiences, and computer vision capabilities
+- Guided development of an omnichannel product across iOS, iPadOS, and web
+- Drove infrastructure modernization through Google Cloud, Terraform, and Ansible
 
 ---
 
@@ -185,9 +177,9 @@ Social network platform designed to counter social isolation during motherhood a
 **Tech Stack:** iOS native, Android native, Java Spring Boot, React  
 **Link:** <https://social.mom/en>
 
-- Led major iOS architecture work for a high-traffic bilingual social platform
-- Reworked native foundations to reduce maintenance overhead and improve delivery speed
-- Established testing practices that improved reliability and release confidence
+- Led iOS architecture work for a high-traffic bilingual social platform focused on community and local connection
+- Modernized native foundations to reduce maintenance overhead and improve delivery speed
+- Introduced testing practices that strengthened reliability and release confidence
 
 ---
 
@@ -197,9 +189,9 @@ All-in-one retail companion and cornerstone of Carrefour Brazil's omnichannel st
 
 **Tech Stack:** iOS native, TypeScript, Node.js, Java  
 
-- Built core mobile commerce experiences, including barcode scanning and store locator capabilities
-- Integrated loyalty systems with discount and cashback tracking
-- Implemented synchronized shopping list workflows across platforms
+- Developed core mobile commerce capabilities, including barcode scanning and store discovery features
+- Integrated loyalty experiences with discount and cashback tracking
+- Built shopping list workflows with cross-platform synchronization
 
 ---
 
@@ -211,9 +203,9 @@ Mobile banking application for one of Brazil's largest financial institutions, p
 
 **Tech Stack:** Windows Phone, iOS, .NET  
 
-- Delivered secure authentication and account access workflows for a large-scale banking product
-- Built transaction visibility features including account history and balances
-- Implemented transfers and payments as part of the core banking experience
+- Developed secure authentication and account access capabilities for a large-scale mobile banking product
+- Built core account visibility features including balances and transaction history
+- Implemented transfers and payments within the core banking experience
 
 ---
 
@@ -223,9 +215,9 @@ Persistent, multi-user virtual world designed to integrate pedagogical goals wit
 
 **Tech Stack:** Unity 3D, Flash ActionScript (SWC), Java, SmartFox Server, HTML5/JS  
 
-- Architected full-stack systems for high-concurrency traffic and low-latency multiplayer communication
-- Developed gameplay systems and real-time state synchronization for 30+ educational mini-games
-- Implemented authentication, profile registration, and parental controls for a children's platform
+- Designed full-stack systems to support high concurrency and low-latency multiplayer interactions
+- Built gameplay systems and real-time state synchronization for 30+ educational mini-games
+- Implemented authentication, profile registration, and parental control capabilities for a children's platform
 
 ---
 
