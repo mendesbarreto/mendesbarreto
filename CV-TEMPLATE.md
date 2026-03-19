@@ -46,5 +46,3 @@ My goal is simple: [PROFILE_GOAL]
 ## Main Projects
 
 [MAIN_PROJECTS]
-
-<div class="page-break"></div>

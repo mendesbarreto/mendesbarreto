@@ -4,6 +4,7 @@
   "type": "module",
   "scripts": {
     "generate-cv": "bun run src/generate-cv.ts",
+    "generate-cv:skip-api": "bun run src/generate-cv.ts --skip-api",
     "dev": "bun --watch run src/generate-cv.ts"
   },
   "dependencies": {

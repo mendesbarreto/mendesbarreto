@@ -45,12 +45,12 @@ jobs:
         run: bun install
 
       - name: Generate CV
-        run: bun run generate-cv
+        run: timeout 30s bun run generate-cv
 
       - name: Check for changes
         id: check-changes
         run: |
-          if git diff --exit-code CV.md; then
+          if git diff --exit-code -- CV*.md; then
             echo "has_changes=false" >> $GITHUB_OUTPUT
           else
             echo "has_changes=true" >> $GITHUB_OUTPUT
@@ -61,6 +61,6 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add CV.md
-          git commit -m "chore: Update CV from API"
+          git add CV*.md
+          git commit -m "chore: Update CVs from API"
           git push
